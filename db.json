@@ -5,8 +5,8 @@
         "input_text": "apple",
         "translate_text": "яблоко",
         "transcription": "ˈæpl",
-        "sentence": "",
-        "translate_sentence": ""
+        "sentence": "the tree which bears apples.",
+        "translate_sentence": "дерево, которое приносит яблоки."
       }
     ]
   }
